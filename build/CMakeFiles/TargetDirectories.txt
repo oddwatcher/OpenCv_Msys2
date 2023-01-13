@@ -1,4 +1,4 @@
-C:/Users/scien/Repos/OpenCv_Msys2/build/CMakeFiles/1.dir
-C:/Users/scien/Repos/OpenCv_Msys2/build/CMakeFiles/2.dir
+C:/Users/scien/Repos/OpenCv_Msys2/build/CMakeFiles/signal.dir
+C:/Users/scien/Repos/OpenCv_Msys2/build/CMakeFiles/continuous.dir
 C:/Users/scien/Repos/OpenCv_Msys2/build/CMakeFiles/edit_cache.dir
 C:/Users/scien/Repos/OpenCv_Msys2/build/CMakeFiles/rebuild_cache.dir

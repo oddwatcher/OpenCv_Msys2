@@ -1,6 +1,7 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/core/core.hpp>
 #include <opencv2/objdetect.hpp>
+#include <opencv2/videoio.hpp>
 #include <iostream>
 #include <string>
 using namespace std;

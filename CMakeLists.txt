@@ -19,7 +19,8 @@ message(STATUS "src: ${SOURCE_FILES}")
 include_directories(${OpenCV_INCLUDE_DIRS})
 
 # 添加个可执行的输出，第一个参数是输出名，必须唯一，第二个源文件
-add_executable(1 1.cpp)
+add_executable(signal 1.cpp)
 # 用来链接库，注意这个函数要在"add_executable"之后使用
-target_link_libraries(1  ${OpenCV_LIBRARIES})
-add_executable(2 Inout.cpp)
+target_link_libraries(signal  ${OpenCV_LIBRARIES})
+add_executable(continuous Inout.cpp)
+target_link_libraries(continuous  ${OpenCV_LIBRARIES})

@@ -1,12 +1,12 @@
 [
 {
   "directory": "C:/Users/scien/Repos/OpenCv_Msys2/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/msys64/mingw64/include/opencv4 -g -std=gnu++17 -o CMakeFiles\\1.dir\\1.cpp.obj -c C:\\Users\\scien\\Repos\\OpenCv_Msys2\\1.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/msys64/mingw64/include/opencv4 -g -std=gnu++17 -o CMakeFiles\\signal.dir\\1.cpp.obj -c C:\\Users\\scien\\Repos\\OpenCv_Msys2\\1.cpp",
   "file": "C:\\Users\\scien\\Repos\\OpenCv_Msys2\\1.cpp"
 },
 {
   "directory": "C:/Users/scien/Repos/OpenCv_Msys2/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/msys64/mingw64/include/opencv4 -g -std=gnu++17 -o CMakeFiles\\2.dir\\Inout.cpp.obj -c C:\\Users\\scien\\Repos\\OpenCv_Msys2\\Inout.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/msys64/mingw64/include/opencv4 -g -std=gnu++17 -o CMakeFiles\\continuous.dir\\Inout.cpp.obj -c C:\\Users\\scien\\Repos\\OpenCv_Msys2\\Inout.cpp",
   "file": "C:\\Users\\scien\\Repos\\OpenCv_Msys2\\Inout.cpp"
 }
 ]

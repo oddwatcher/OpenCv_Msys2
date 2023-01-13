@@ -40,16 +40,16 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-1-Debug-ef82ce27f005d1065935.json",
-					"name" : "1",
+					"id" : "continuous::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-continuous-Debug-014463ca6c8b24af5786.json",
+					"name" : "continuous",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-2-Debug-ad9f0f86f65a0783a2c1.json",
-					"name" : "2",
+					"id" : "signal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signal-Debug-0d03343240586c11946b.json",
+					"name" : "signal",
 					"projectIndex" : 0
 				}
 			]
